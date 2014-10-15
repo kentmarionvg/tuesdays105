@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tuesdays105
+#
+
+projectname: tuesdays105
+vendorid: com.mariown.example
+mainmodule: com.mariown.example.tuesdays105
